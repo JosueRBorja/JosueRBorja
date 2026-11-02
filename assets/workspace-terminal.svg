@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="285" viewBox="0 0 1200 285" role="img" aria-label="Animated introduction: backend with Python and FastAPI, AWS infrastructure, Linux and security, photography and creativity">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f1c"/><stop offset="1" stop-color="#161a35"/></linearGradient>
+<clipPath id="c1"><rect x="38" y="74" width="0" height="26"><animate attributeName="width" values="0;0;1050;1050;0" keyTimes="0;.06;.25;.92;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="38" y="118" width="0" height="26"><animate attributeName="width" values="0;0;1050;1050;0" keyTimes="0;.27;.46;.92;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="38" y="162" width="0" height="26"><animate attributeName="width" values="0;0;1050;1050;0" keyTimes="0;.48;.67;.92;1" dur="18s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="38" y="206" width="0" height="26"><animate attributeName="width" values="0;0;1050;1050;0" keyTimes="0;.69;.86;.92;1" dur="18s" repeatCount="indefinite"/></rect></clipPath></defs>
+<rect x="1" y="1" width="1198" height="283" rx="18" fill="url(#bg)" stroke="#2a3652"/><path d="M1 51H1199" stroke="#25314a"/>
+<circle cx="28" cy="26" r="5" fill="#fb7185"/><circle cx="47" cy="26" r="5" fill="#eac270"/><circle cx="66" cy="26" r="5" fill="#4cdbb0"/>
+<text x="92" y="31" font-family="monospace" font-size="13" fill="#6f84a5">josue@workspace ~ / about-me</text>
+<g font-family="monospace" font-size="21"><text x="38" y="95" fill="#53dfd0" clip-path="url(#c1)">$ backend: Python + FastAPI + databases</text>
+<text x="38" y="139" fill="#91b6ff" clip-path="url(#c2)">$ cloud: AWS + infrastructure + delivery</text>
+<text x="38" y="183" fill="#b699fa" clip-path="url(#c3)">$ systems: Linux + security + curiosity</text>
+<text x="38" y="227" fill="#e6b1d5" clip-path="url(#c4)">$ beyond-code: photography + creativity</text></g>
+<rect x="38" y="252" width="10" height="3" fill="#53dfd0"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<g transform="translate(1055 164)" fill="none" stroke="#3a587a"><circle r="60"/><circle r="42" stroke-dasharray="3 8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/></circle><path d="M-70 0H70M0 -70V70"/><circle r="5" fill="#53dfd0" stroke="none"/><circle r="4" fill="#9b91fa" stroke="none"><animateMotion dur="12s" repeatCount="indefinite" path="M60 0A60 60 0 1 1 -60 0A60 60 0 1 1 60 0"/></circle></g></svg>
