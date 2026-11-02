@@ -21,7 +21,7 @@ I'm **Josue Ramírez Borja**, an Information Systems Engineering student at **Un
 
 I build projects with **Python, FastAPI and AWS**, explore **Linux and system administration**, and study how to make applications more secure. I enjoy connecting the pieces: an interface, an API, a database and the infrastructure behind them.
 
-Outside the terminal, I enjoy **photography** — another way to experiment, notice details and tell stories.
+Outside the terminal, I love **photography, nature and horses**. Capturing landscapes, noticing small details and spending time around animals inspire my curiosity and creativity.
 
 <p>
   <img src="https://img.shields.io/badge/IEEE-STUDENT_MEMBER-00629B?style=flat-square" alt="IEEE Student Member" />
@@ -72,7 +72,7 @@ Outside the terminal, I enjoy **photography** — another way to experiment, not
 <details>
 <summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
 
-Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información en la UIDE. Desarrollo proyectos con Python, FastAPI y AWS, y me interesan la ciberseguridad, Linux y la administración de sistemas. Me gusta aprender construyendo, entender cómo funcionan las cosas y compartir el proceso. Fuera del código, disfruto la fotografía y explorar el mundo a través de una cámara.
+Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información en la UIDE. Desarrollo proyectos con Python, FastAPI y AWS, y me interesan la ciberseguridad, Linux y la administración de sistemas. Me gusta aprender construyendo, entender cómo funcionan las cosas y compartir el proceso. Fuera del código, me encanta la fotografía y la naturaleza, y soy un amante de los caballos. Disfruto capturar paisajes, descubrir pequeños detalles y pasar tiempo cerca de los animales.
 
 </details>
 
@@ -81,6 +81,39 @@ Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información 
 <a href="https://www.instagram.com/sir_josu.rb19/">
   <img src="./assets/photography-banner.svg" width="100%" alt="Code. Capture. Explore. — Photography on Instagram: sir_josu.rb19" />
 </a>
+
+### 📷 Beyond the terminal
+
+<p align="center">
+  <b>Nature, animals & the stories between places.</b><br/>
+  Naturaleza, animales e historias entre paisajes.<br/>
+  🌿 Nature lover &nbsp;·&nbsp; 🐎 Horse lover &nbsp;·&nbsp; 📸 Photography
+</p>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/01-atardecer.jpg" width="100%" alt="Sunset over green hills and a winding river" /></a><br/>
+<sub>Golden horizons · Horizontes dorados</sub><br/><br/>
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/04-amanecer.jpg" width="100%" alt="Sunrise above misty hills" /></a><br/>
+<sub>Morning light · Luz de amanecer</sub><br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/02-compania.jpg" width="100%" alt="Black and white portrait of a German shepherd" /></a><br/>
+<sub>Good company · Buena compañía</sub><br/><br/>
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/05-arquitectura.jpg" width="100%" alt="Gothic architecture beneath a plane and the moon" /></a><br/>
+<sub>Look up · Mirar al cielo</sub><br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/03-luz-natural.jpg" width="100%" alt="Golden sunlight through seed heads" /></a><br/>
+<sub>Small details · Pequeños detalles</sub><br/><br/>
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/06-cuenca.jpg" width="100%" alt="A cobblestone view of Cuenca" /></a><br/>
+<sub>New perspectives · Nuevas perspectivas</sub><br/><br/>
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://www.instagram.com/sir_josu.rb19/"><b>Explore my photography on Instagram → @sir_josu.rb19</b></a></p>
 
 <p align="center">
   <b>More than code. A way to build, explore and create.</b><br/><br/>
