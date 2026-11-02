@@ -34,7 +34,7 @@ Outside the terminal, I love **photography, nature and horses**. Capturing lands
 ### 🛠️ My toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,go,java,js,react,html,css,aws,docker,linux,git,github&amp;perline=13&amp;theme=dark" alt="Python, FastAPI, Go, Java, JavaScript, React, HTML, CSS, AWS, Docker, Linux, Git and GitHub" />
+  <img src="./assets/animated-toolkit.svg" width="100%" alt="Python, FastAPI, Go, Java, JavaScript, React, HTML, CSS, AWS, Docker, Linux, Git and GitHub" />
 </p>
 
 **Backend & data** · REST APIs, SQL, SQLModel, SQLite, DynamoDB  
