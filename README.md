@@ -112,6 +112,19 @@ Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información 
 
 <p align="center"><a href="https://www.instagram.com/sir_josu.rb19/"><b>Explore my photography on Instagram → @sir_josu.rb19</b></a></p>
 
+### 🐍 Contribution snake
+
+<p align="center">
+  <b>My coding activity, one bite at a time.</b><br/>
+  <sub>Mis contribuciones, un bocado a la vez · Updated daily</sub>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake.svg" />
+  <img alt="Animated snake eating JosueRBorja's GitHub contribution grid" src="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake.svg" width="100%" />
+</picture>
+
 <p align="center">
   <b>More than code. A way to build, explore and create.</b><br/><br/>
   <a href="https://github.com/JosueRBorja?tab=repositories"><img src="https://img.shields.io/github/last-commit/JosueRBorja/JosueRBorja?style=flat-square&amp;label=profile%20updated&amp;color=28c9bd" alt="Latest profile update" /></a>
