@@ -69,6 +69,17 @@ Outside the terminal, I love **photography, nature and horses**. Capturing lands
 - **Systems:** Linux Essentials and Microsoft Learn coursework in Group Policy and Active Directory.
 - **Collaboration:** IEEE Student Member, AWS club participation and GitHub Foundations coursework.
 
+### 🌐 Community & competitions
+
+<table>
+<tr>
+<td width="50%"><a href="https://ec-central-1.console.awscommunity.ec/certificados/ODSGSEVOKGNW"><img src="./assets/community-aws.svg" width="100%" alt="AWS Community Day Ecuador 2026 — attendee in Cuenca on September 5, 2026. View participation certificate." /></a></td>
+<td width="50%"><img src="./assets/community-ieeextreme.svg" width="100%" alt="IEEEXtreme 20.0 — participant in 2026 with team Machine Six" /></td>
+</tr>
+</table>
+
+<p align="center"><a href="https://ec-central-1.console.awscommunity.ec/certificados/ODSGSEVOKGNW">☁️ View AWS Community Day participation certificate</a></p>
+
 <details>
 <summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
 
