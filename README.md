@@ -1,46 +1,52 @@
-# 👋 ¡Hola! Soy Josue Ramírez Borja
+# Hi, I'm Josue Ramírez Borja
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-UIDE-blue?style=for-the-badge" alt="UIDE Student">
-  <img src="https://img.shields.io/badge/Enfoque-Cybersecurity%20%26%20Cloud-red?style=for-the-badge" alt="Focus">
-</p>
+**Information Systems Engineering Student · Backend Development · AWS · Cybersecurity**
 
----
+Based in Quito, Ecuador, I am a fifth-semester Information Systems Engineering student at **Universidad Internacional del Ecuador (UIDE)**. I build academic and personal projects to practice API development, databases, cloud infrastructure and secure software development.
 
-### 🚀 Sobre Mí
+I am seeking **international software development and cloud internships**, and I am interested in contributing to student developer communities and technology ambassador programs.
 
-Soy estudiante de **Ingeniería en Sistemas de Información** (4to semestre) en la **Universidad Internacional del Ecuador (UIDE)**. Me apasiona la seguridad informática, el hacking ético, el análisis de tráfico de red y el despliegue de infraestructuras en la nube. Me gusta crear laboratorios prácticos, auditar entornos y automatizar soluciones mediante código robusto.
+[LinkedIn](https://www.linkedin.com/in/josue-ramirez-18388019a/) · [Explore my repositories](https://github.com/JosueRBorja?tab=repositories)
 
-- 🔒 **Enfoque actual:** Pentesting, simulaciones de inyección de código, análisis de paquetes y hardening de sistemas.
-- ☁️ **Cloud & SysAdmin:** Configuración de arquitecturas seguras en la nube y gestión de servidores redundantes.
-- 🚜 **Dato curioso:** Fuera de las líneas de código, me encantan los caballos, la cultura equina tradicional y manejo una propiedad de ganadería.
+## Selected projects
 
----
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [Nexo — AWS URL Shortener](https://github.com/JosueRBorja/acortador-enlaces-aws) | URL creation, persistent storage and HTTP redirects, with a local development setup and automated tests. | Python, FastAPI, DynamoDB, EC2, S3 |
+| [VideoTube Lite — Deployment Demo](https://github.com/JosueRBorja/videotube-lite-) | A static interface and a GitHub Actions workflow for publishing to S3 using OIDC. | HTML, CSS, GitHub Actions, AWS |
+| [Library API](https://github.com/JosueRBorja/api-biblioteca) | CRUD endpoints for books and users, database models and HTTP error handling. | Python, FastAPI, SQLModel, SQLite |
+| [Web Portfolio](https://github.com/JosueRBorja/Portafolio-HTML-JRB) | A personal portfolio built as a web development project. | HTML, CSS |
 
-### 🛠️ Mi Stack Tecnológico
+VideoTube Lite is a static deployment exercise; it does not include video playback or a backend.
 
-#### 💻 Desarrollo & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+## Technical toolkit
 
-#### 🛡️ Ciberseguridad & Redes
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) **· sqlmap · Ettercap · Auditorías de Red**
+| Area | Technologies I study and use in projects |
+| --- | --- |
+| Backend & data | Python, FastAPI, SQL, SQLModel |
+| Programming & web | Go, Java, JavaScript, React, HTML, CSS |
+| Cloud & development tools | AWS, Docker, Git, GitHub, GitHub Actions |
+| Systems & networking | Linux, Windows Server, Active Directory, Wireshark |
 
-#### 🌐 Infraestructura & Servidores
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white) ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-F44336?style=flat-square&logo=almalinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+## Learning & community
 
----
+- **IEEE Student Member**, with interests in computing, communications and student collaboration.
+- Participant in an **AWS club**.
+- Completed coursework in Linux Essentials, Python, HTML, CSS and Java.
+- AWS training in VPC, IAM, billing, shared responsibility and SimuLearn.
+- Microsoft Learn coursework in GitHub Foundations, Group Policy and Active Directory administration.
 
-### 📁 Proyectos Destacados
+These are course-completion achievements; professional exam certifications are not claimed here.
 
-*   **🔒 [Decifrado de contraseñas](https://github.com/JosueRBorja/Decifrado_de_contrase-as):** Script interactivo en Python desarrollado para auditorías de seguridad y simulaciones de ataques de fuerza bruta.
-*   **🚀 [Inspira Proyect](https://github.com/JosueRBorja/inspira-proyect):** Colaboración activa en el desarrollo de arquitecturas web, integración de APIs y estructuración de esquemas de datos.
+## What I'm working toward
 
----
+- Building clearer, better-documented backend and cloud projects.
+- Strengthening my understanding of application security and system administration.
+- Sharing practical learning with other students.
+- Collaborating on open-source and community projects.
 
-### 📊 Estadísticas de GitHub
+## En español
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueRBorja&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Josue" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRBorja&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
+Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información en la UIDE, en Quito, Ecuador. Me interesan el desarrollo backend, AWS y la ciberseguridad. Aprendo mediante proyectos prácticos y busco pasantías internacionales, colaboración con comunidades tecnológicas y oportunidades para compartir conocimientos con otros estudiantes.
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/josue-ramirez-18388019a/)
