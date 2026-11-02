@@ -17,8 +17,6 @@ I am seeking **international software development and cloud internships**, and I
 | [Library API](https://github.com/JosueRBorja/api-biblioteca) | CRUD endpoints for books and users, database models and HTTP error handling. | Python, FastAPI, SQLModel, SQLite |
 | [Web Portfolio](https://github.com/JosueRBorja/Portafolio-HTML-JRB) | A personal portfolio built as a web development project. | HTML, CSS |
 
-VideoTube Lite is a static deployment exercise; it does not include video playback or a backend.
-
 ## Technical toolkit
 
 | Area | Technologies I study and use in projects |
@@ -35,8 +33,6 @@ VideoTube Lite is a static deployment exercise; it does not include video playba
 - Completed coursework in Linux Essentials, Python, HTML, CSS and Java.
 - AWS training in VPC, IAM, billing, shared responsibility and SimuLearn.
 - Microsoft Learn coursework in GitHub Foundations, Group Policy and Active Directory administration.
-
-These are course-completion achievements; professional exam certifications are not claimed here.
 
 ## What I'm working toward
 
