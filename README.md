@@ -13,7 +13,7 @@ I am seeking **international software development and cloud internships**, and I
 | Project | What it demonstrates | Technologies |
 | --- | --- | --- |
 | [Nexo — AWS URL Shortener](https://github.com/JosueRBorja/acortador-enlaces-aws) | URL creation, persistent storage and HTTP redirects, with a local development setup and automated tests. | Python, FastAPI, DynamoDB, EC2, S3 |
-| [VideoTube Lite — Deployment Demo](https://github.com/JosueRBorja/videotube-lite-) | A static interface and a GitHub Actions workflow for publishing to S3 using OIDC. | HTML, CSS, GitHub Actions, AWS |
+| [VideoTube Lite — Learning Fork](https://github.com/JosueRBorja/videotube-lite-) | Learning fork of [LeirBaGMC's project](https://github.com/LeirBaGMC/videotube-lite-): a static interface and a GitHub Actions workflow for publishing to S3 using OIDC. | HTML, CSS, GitHub Actions, AWS |
 | [Library API](https://github.com/JosueRBorja/api-biblioteca) | CRUD endpoints for books and users, database models and HTTP error handling. | Python, FastAPI, SQLModel, SQLite |
 | [Web Portfolio](https://github.com/JosueRBorja/Portafolio-HTML-JRB) | A personal portfolio built as a web development project. | HTML, CSS |
 
