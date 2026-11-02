@@ -13,7 +13,7 @@
   Turning what I learn into APIs, cloud projects and practical experiments.
 </p>
 
----
+<img src="./assets/circuit-divider.svg" width="100%" alt="Animated circuit separator" />
 
 ### ⚡ A little about me
 
@@ -29,6 +29,8 @@ Outside the terminal, I enjoy **photography** — another way to experiment, not
   <img src="https://img.shields.io/badge/COMMUNITY-AWS_CLUB-FF9900?style=flat-square" alt="AWS club participant" />
 </p>
 
+<p align="center"><img src="./assets/workspace-terminal.svg" width="100%" alt="Animated terminal showing my focus on backend, cloud, Linux and photography" /></p>
+
 ### 🛠️ My toolkit
 
 <p align="center">
@@ -43,52 +45,22 @@ Outside the terminal, I enjoy **photography** — another way to experiment, not
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🔗 [Nexo · AWS URL Shortener](https://github.com/JosueRBorja/acortador-enlaces-aws)
-
-An application that connects a web interface to a FastAPI backend and DynamoDB storage. Includes URL creation, HTTP redirects, a local development setup and automated tests.
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square" alt="DynamoDB" />
-
-</td>
-<td width="50%" valign="top">
-
-#### 📚 [Library API](https://github.com/JosueRBorja/api-biblioteca)
-
-A REST API for managing books and users. A practical project in database models, CRUD operations and HTTP error handling.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQLModel-607D8B?style=flat-square" alt="SQLModel" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-
-</td>
+<td width="50%"><a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><img src="./assets/project-nexo.svg" width="100%" alt="Nexo — FastAPI, DynamoDB, EC2 and S3 URL shortener with automated tests" /></a></td>
+<td width="50%"><a href="https://github.com/JosueRBorja/api-biblioteca"><img src="./assets/project-library.svg" width="100%" alt="Library API — book and user CRUD with FastAPI, SQLModel and SQLite" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### ☁️ [VideoTube Lite · Learning Fork](https://github.com/JosueRBorja/videotube-lite-)
-
-A static interface and an example of deployment to S3 using GitHub Actions and OIDC. Learning fork of [LeirBaGMC's original project](https://github.com/LeirBaGMC/videotube-lite-).
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white" alt="Amazon S3" />
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 [Web Portfolio](https://github.com/JosueRBorja/Portafolio-HTML-JRB)
-
-A personal web development project built with HTML and CSS, bringing together my presentation, interests and visual experimentation.
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS" />
-
-</td>
+<td width="50%"><a href="https://github.com/JosueRBorja/videotube-lite-"><img src="./assets/project-videotube.svg" width="100%" alt="VideoTube Lite — learning fork of LeirBaGMC's S3 deployment project" /></a></td>
+<td width="50%"><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="./assets/project-portfolio.svg" width="100%" alt="Web Portfolio — personal HTML and CSS project" /></a></td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><img src="https://img.shields.io/github/last-commit/JosueRBorja/acortador-enlaces-aws?style=flat-square&amp;label=Nexo%20updated&amp;color=35c9ba" alt="Nexo latest commit" /></a>
+  <a href="https://github.com/JosueRBorja/api-biblioteca"><img src="https://img.shields.io/github/last-commit/JosueRBorja/api-biblioteca?style=flat-square&amp;label=Library%20API%20updated&amp;color=9695ef" alt="Library API latest commit" /></a>
+  <a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="https://img.shields.io/github/last-commit/JosueRBorja/Portafolio-HTML-JRB?style=flat-square&amp;label=Portfolio%20updated&amp;color=d791cb" alt="Portfolio latest commit" /></a>
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%" alt="Animated circuit separator" />
 
 ### 🧠 Always learning
 
