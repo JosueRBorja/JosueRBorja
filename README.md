@@ -90,28 +90,25 @@ Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información 
   🌿 Nature lover &nbsp;·&nbsp; 🐎 Horse lover &nbsp;·&nbsp; 📸 Photography
 </p>
 
+<details>
+<summary><b>📸 Mostrar / ocultar mi galería · Open / close photo gallery</b></summary>
+
+<br/>
+
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/01-atardecer.jpg" width="100%" alt="Sunset over green hills and a winding river" /></a><br/>
-<sub>Golden horizons · Horizontes dorados</sub><br/><br/>
-<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/04-amanecer.jpg" width="100%" alt="Sunrise above misty hills" /></a><br/>
-<sub>Morning light · Luz de amanecer</sub><br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/02-compania.jpg" width="100%" alt="Black and white portrait of a German shepherd" /></a><br/>
-<sub>Good company · Buena compañía</sub><br/><br/>
-<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/05-arquitectura.jpg" width="100%" alt="Gothic architecture beneath a plane and the moon" /></a><br/>
-<sub>Look up · Mirar al cielo</sub><br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/03-luz-natural.jpg" width="100%" alt="Golden sunlight through seed heads" /></a><br/>
-<sub>Small details · Pequeños detalles</sub><br/><br/>
-<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/06-cuenca.jpg" width="100%" alt="A cobblestone view of Cuenca" /></a><br/>
-<sub>New perspectives · Nuevas perspectivas</sub><br/><br/>
-</td>
+<td width="33%" align="center" valign="top"><a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/01-atardecer-card.svg" width="100%" alt="Golden horizons — sunset over green hills and a river" /></a></td>
+<td width="33%" align="center" valign="top"><a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/02-compania-card.svg" width="100%" alt="Good company — black and white German shepherd portrait" /></a></td>
+<td width="33%" align="center" valign="top"><a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/03-luz-natural-card.svg" width="100%" alt="Small details — seed heads in golden sunlight" /></a></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/04-amanecer-card.svg" width="100%" alt="Morning light — sunrise above misty hills" /></a></td>
+<td width="33%" align="center" valign="top"><a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/05-arquitectura-card.svg" width="100%" alt="Look up — architecture, plane and moon" /></a></td>
+<td width="33%" align="center" valign="top"><a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/photography/06-cuenca-card.svg" width="100%" alt="New perspectives — cobblestones and Cuenca" /></a></td>
 </tr>
 </table>
+
+</details>
 
 <p align="center"><a href="https://www.instagram.com/sir_josu.rb19/"><b>Explore my photography on Instagram → @sir_josu.rb19</b></a></p>
 
