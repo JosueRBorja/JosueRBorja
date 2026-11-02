@@ -73,12 +73,12 @@ Outside the terminal, I love **photography, nature and horses**. Capturing lands
 
 <table>
 <tr>
-<td width="50%"><a href="https://ec-central-1.console.awscommunity.ec/certificados/ODSGSEVOKGNW"><img src="./assets/community-aws.svg" width="100%" alt="AWS Community Day Ecuador 2026 — attendee in Cuenca on September 5, 2026. View participation certificate." /></a></td>
+<td width="50%"><a href="https://drive.google.com/file/d/1dHtHN4zPq9qZnJJxpIwF2b5SEjUHkut_/view?usp=sharing"><img src="./assets/community-aws.svg" width="100%" alt="AWS Community Day Ecuador 2026 — attendee in Cuenca on September 5, 2026. View participation certificate." /></a></td>
 <td width="50%"><img src="./assets/community-ieeextreme.svg" width="100%" alt="IEEEXtreme 20.0 — participant in 2026 with team Machine Six" /></td>
 </tr>
 </table>
 
-<p align="center"><a href="https://ec-central-1.console.awscommunity.ec/certificados/ODSGSEVOKGNW">☁️ View AWS Community Day participation certificate</a></p>
+<p align="center"><a href="https://drive.google.com/file/d/1dHtHN4zPq9qZnJJxpIwF2b5SEjUHkut_/view?usp=sharing">☁️ View AWS Community Day participation certificate</a></p>
 
 <details>
 <summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
