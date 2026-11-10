@@ -140,3 +140,10 @@ Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información 
   <b>More than code. A way to build, explore and create.</b><br/><br/>
   <a href="https://github.com/JosueRBorja?tab=repositories"><img src="https://img.shields.io/github/last-commit/JosueRBorja/JosueRBorja?style=flat-square&amp;label=profile%20updated&amp;color=28c9bd" alt="Latest profile update" /></a>
 </p>
+
+
+### ♻️ Latest project · EcoRAEE
+
+[**Sistema Empresarial / EcoRAEE**](https://github.com/JosueRBorja/Sistema-Empresarial) — an academic application built with **React, FastAPI and SQLite**. Includes a customer storefront, sales, inventory, installment payments and electronic-waste traceability, with separate staff roles.
+
+Runs locally on Windows with demo data and simulated payments. See the repository for setup instructions and limitations.
