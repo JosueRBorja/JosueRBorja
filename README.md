@@ -29,6 +29,12 @@ I enjoy connecting interfaces, APIs and databases, then understanding the infras
 
 Outside the terminal, you'll find me with a camera, exploring nature or spending time around horses.
 
+<p align="center">
+  <img src="./assets/workspace-terminal.svg" width="100%" alt="Animated terminal: backend, AWS, Linux, security and photography" />
+</p>
+
+<img src="./assets/circuit-divider.svg" width="100%" alt="Animated circuit divider" />
+
 ## Selected projects
 
 <a href="https://github.com/JosueRBorja/Sistema-Empresarial"><img src="./assets/studio-ecoraee.svg" width="100%" alt="Featured personal project: EcoRAEE Cloud. React, FastAPI and SQLite. Storefront, trade-ins, inventory, finance and RAEE traceability. Runs locally with simulated payments." /></a>
@@ -52,6 +58,10 @@ The current prototype runs entirely **locally**, with demo data and simulated pa
 
 ## Tools & learning
 
+<p align="center">
+  <img src="./assets/animated-toolkit.svg" width="100%" alt="Animated icons: Python, FastAPI, Go, Java, JavaScript, React, HTML, CSS, AWS, Docker, Linux, Git, GitHub and Kali Linux" />
+</p>
+
 <img src="./assets/studio-toolkit.svg" width="100%" alt="Backend: Python, FastAPI, SQL, SQLModel, SQLite, DynamoDB. Frontend: JavaScript, React, HTML, CSS, Vite. Cloud: AWS, Docker, Git, EC2, S3, GitHub Actions." />
 
 | Area | What I'm exploring |
@@ -70,6 +80,8 @@ The current prototype runs entirely **locally**, with demo data and simulated pa
 - **Collaboration:** GitHub Foundations coursework, IEEE Student Member and AWS club participation.
 
 </details>
+
+<img src="./assets/circuit-divider.svg" width="100%" alt="Animated circuit divider" />
 
 ## Community
 
