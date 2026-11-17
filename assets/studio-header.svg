@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img"><rect x="1" y="1" width="1198" height="438" rx="24" fill="#F8FAFD" stroke="#DFE5EF"/><g font-family="Arial, Helvetica, sans-serif">
+<path d="M24 1H1176" stroke="#232F3E" stroke-width="3"/>
+<circle cx="52" cy="42" r="5" fill="#4285F4"/><circle cx="71" cy="42" r="5" fill="#EA4335"/><circle cx="90" cy="42" r="5" fill="#FBBC05"/><circle cx="109" cy="42" r="5" fill="#34A853"/><text x="151" y="48" font-size="13" font-weight="700" fill="#526071">JRB / DEVELOPER WORKSPACE</text>
+<rect x="992" y="27" width="164" height="30" rx="15" fill="#E8F0FE"/><text x="1011" y="47" font-size="12" font-weight="700" fill="#1967D2">QUITO · ECUADOR</text>
+<text x="52" y="124" font-size="15" font-weight="700" fill="#BD6500">LEARN. BUILD. KEEP EXPLORING.</text>
+<text x="49" y="188" font-size="52" font-weight="700" fill="#232F3E">Josue Ramírez</text><text x="49" y="246" font-size="52" font-weight="700" fill="#232F3E">Borja.</text>
+<text x="52" y="291" font-size="23" font-weight="400" fill="#526071">Backend · Cloud · Curious by nature</text>
+<text x="52" y="331" font-size="17" font-weight="400" fill="#526071">Turning ideas into APIs, interfaces and practical projects.</text>
+<rect x="52" y="363" width="122" height="35" rx="17" fill="#232F3E"/><text x="77" y="386" font-size="14" font-weight="700" fill="#FFFFFF">Python / API</text>
+<rect x="185" y="363" width="120" height="35" rx="17" fill="#FFF0D9"/><text x="211" y="386" font-size="14" font-weight="700" fill="#995400">AWS / Cloud</text>
+<rect x="316" y="363" width="156" height="35" rx="17" fill="#E6F4EA"/><text x="341" y="386" font-size="14" font-weight="700" fill="#137333">Always learning</text>
+<rect x="754" y="101" width="393" height="281" rx="21" fill="#232F3E"/>
+<circle cx="780" cy="126" r="5" fill="#4285F4"/><circle cx="799" cy="126" r="5" fill="#EA4335"/><circle cx="818" cy="126" r="5" fill="#FBBC05"/><circle cx="837" cy="126" r="5" fill="#34A853"/><text x="861" y="131" font-size="12" font-weight="400" fill="#C3CFDF">build / connect / learn</text>
+<path d="M805 251V192H1086V251M945 192V164M945 253V285" fill="none" stroke="#8293A9" stroke-width="2"/>
+<path d="M913 176C893 176 889 150 906 141C902 118 940 110 949 132C970 120 995 141 982 159C980 170 970 176 957 176Z" fill="#FF9900" transform="translate(0 15)"/>
+<rect x="761" y="244" width="88" height="52" rx="12" fill="#34445A" stroke="#4285F4"/><text x="790" y="276" font-size="16" font-weight="700" fill="#FFFFFF">API</text><rect x="901" y="244" width="88" height="52" rx="12" fill="#34445A" stroke="#34A853"/><text x="925" y="276" font-size="16" font-weight="700" fill="#FFFFFF">DATA</text><rect x="1042" y="244" width="88" height="52" rx="12" fill="#34445A" stroke="#FBBC05"/><text x="1061" y="276" font-size="16" font-weight="700" fill="#FFFFFF">CLOUD</text>
+<text x="788" y="341" font-size="15" font-weight="400" fill="#D7E3F4">> small steps. working software.</text>
+<rect x="1131" y="172" width="5" height="77" rx="2" fill="#EA4335"/></g></svg>

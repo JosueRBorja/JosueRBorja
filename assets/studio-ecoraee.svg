@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img"><rect x="1" y="1" width="1198" height="308" rx="24" fill="#F8FAFD" stroke="#DFE5EF"/><g font-family="Arial, Helvetica, sans-serif">
+<rect x="1" y="1" width="16" height="308" rx="8" fill="#34A853"/>
+<text x="46" y="44" font-size="13" font-weight="700" fill="#137333">FEATURED / PERSONAL PROJECT</text><text x="44" y="103" font-size="45" font-weight="700" fill="#232F3E">EcoRAEE Cloud</text>
+<text x="46" y="146" font-size="21" font-weight="400" fill="#526071">A second life for technology.</text>
+<text x="46" y="184" font-size="17" font-weight="400" fill="#526071">Storefront, trade-ins, inventory and electronic-waste traceability.</text>
+<text x="46" y="214" font-size="17" font-weight="400" fill="#526071">Staff roles, technical assessment and installment management.</text>
+<rect x="46" y="248" width="374" height="34" rx="17" fill="#E6F4EA"/><text x="64" y="270" font-size="14" font-weight="700" fill="#137333">React + FastAPI + SQLite  /  Local prototype</text>
+<rect x="841" y="35" width="315" height="241" rx="18" fill="#FFFFFF" stroke="#DFE5EF"/>
+<circle cx="864" cy="55" r="5" fill="#4285F4"/><circle cx="883" cy="55" r="5" fill="#EA4335"/><circle cx="902" cy="55" r="5" fill="#FBBC05"/><circle cx="921" cy="55" r="5" fill="#34A853"/><text x="941" y="60" font-size="12" font-weight="400" fill="#526071">ecoraee / workspace</text>
+<rect x="864" y="82" width="268" height="87" rx="12" fill="#E6F4EA"/>
+<rect x="881" y="96" width="71" height="47" rx="5" fill="#232F3E"/><path d="M917 144V153M900 153H934" stroke="#232F3E" stroke-width="4"/>
+<text x="970" y="115" font-size="13" font-weight="700" fill="#137333">REUSE. REPAIR.</text><text x="970" y="139" font-size="13" font-weight="700" fill="#137333">RECYCLE.</text>
+<rect x="864" y="184" width="84" height="37" rx="8" fill="#4285F4"/><text x="871" y="207" font-size="10" font-weight="700" fill="#FFFFFF">STORE</text><rect x="956" y="184" width="84" height="37" rx="8" fill="#FF9900"/><text x="963" y="207" font-size="10" font-weight="700" fill="#FFFFFF">WORKSHOP</text><rect x="1048" y="184" width="84" height="37" rx="8" fill="#34A853"/><text x="1055" y="207" font-size="10" font-weight="700" fill="#FFFFFF">INVENTORY</text>
+<text x="864" y="251" font-size="12" font-weight="400" fill="#526071">Simulated payments · v0.1.0-personal</text></g></svg>

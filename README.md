@@ -1,105 +1,87 @@
 <p align="center">
-  <img src="./assets/cyber-banner.svg" width="100%" alt="Josue Ramírez Borja — animated backend, cloud and cybersecurity banner" />
+  <img src="./assets/studio-header.svg" width="100%" alt="Josue Ramírez Borja — Backend, cloud and curiosity. Quito, Ecuador." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josue-ramirez-18388019a/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://www.instagram.com/sir_josu.rb19/"><img src="https://img.shields.io/badge/Instagram-PHOTOGRAPHY-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Photography on Instagram" /></a>
-  <a href="https://github.com/JosueRBorja?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my code" /></a>
+  <a href="#about-me">About</a> &nbsp;·&nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#tools--learning">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#community">Community</a> &nbsp;·&nbsp;
+  <a href="#beyond-the-terminal">Photography</a>
 </p>
 
 <p align="center">
-  <b>Backend developer in training. Cloud builder. Curious about security.</b><br/>
-  Turning what I learn into APIs, cloud projects and practical experiments.
+  <b>Backend developer in training. Building with Python, React and AWS.</b><br/>
+  Aprendo construyendo: una idea, una API y un proyecto a la vez.
 </p>
-
-<img src="./assets/circuit-divider.svg" width="100%" alt="Animated circuit separator" />
-
-### ⚡ A little about me
-
-I'm **Josue Ramírez Borja**, an Information Systems Engineering student at **Universidad Internacional del Ecuador (UIDE)**, currently in my fifth semester, based in **Quito, Ecuador**.
-
-I build projects with **Python, FastAPI and AWS**, explore **Linux and system administration**, and study how to make applications more secure. I enjoy connecting the pieces: an interface, an API, a database and the infrastructure behind them.
-
-Outside the terminal, I love **photography, nature and horses**. Capturing landscapes, noticing small details and spending time around animals inspire my curiosity and creativity.
-
-<p>
-  <img src="https://img.shields.io/badge/IEEE-STUDENT_MEMBER-00629B?style=flat-square" alt="IEEE Student Member" />
-  <img src="https://img.shields.io/badge/UIDE-INFORMATION_SYSTEMS-7559CF?style=flat-square" alt="Information Systems at UIDE" />
-  <img src="https://img.shields.io/badge/COMMUNITY-AWS_CLUB-FF9900?style=flat-square" alt="AWS club participant" />
-</p>
-
-<p align="center"><img src="./assets/workspace-terminal.svg" width="100%" alt="Animated terminal showing my focus on backend, cloud, Linux and photography" /></p>
-
-### 🛠️ My toolkit
 
 <p align="center">
-  <img src="./assets/animated-toolkit.svg" width="100%" alt="Python, FastAPI, Go, Java, JavaScript, React, HTML, CSS, AWS, Docker, Linux, Git and GitHub" />
+  <a href="https://www.linkedin.com/in/josue-ramirez-18388019a/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-1967D2?style=flat-square" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.instagram.com/sir_josu.rb19/"><img src="https://img.shields.io/badge/Instagram-Photography-EA4335?style=flat-square" alt="Photography on Instagram" /></a>
+  <a href="https://github.com/JosueRBorja?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_code-232F3E?style=flat-square" alt="Explore my repositories" /></a>
 </p>
 
-**Backend & data** · REST APIs, SQL, SQLModel, SQLite, DynamoDB  
-**Cloud & delivery** · EC2, S3, GitHub Actions, OIDC, Docker  
-**Systems & security** · Linux, Windows Server, Active Directory, Wireshark
+## About me
 
-### 🚀 Projects from my workspace
+I'm **Josue Ramírez Borja**, an Information Systems Engineering student at **Universidad Internacional del Ecuador (UIDE)**, based in **Quito, Ecuador**.
+
+I enjoy connecting interfaces, APIs and databases, then understanding the infrastructure behind them. My focus is **backend development and cloud**, with a growing interest in **Linux, system administration and application security**.
+
+Outside the terminal, you'll find me with a camera, exploring nature or spending time around horses.
+
+## Selected projects
+
+<a href="https://github.com/JosueRBorja/Sistema-Empresarial"><img src="./assets/studio-ecoraee.svg" width="100%" alt="Featured personal project: EcoRAEE Cloud. React, FastAPI and SQLite. Storefront, trade-ins, inventory, finance and RAEE traceability. Runs locally with simulated payments." /></a>
+
+**[Explore EcoRAEE Cloud →](https://github.com/JosueRBorja/Sistema-Empresarial)** &nbsp;·&nbsp; [Preserved version: v0.1.0-personal](https://github.com/JosueRBorja/Sistema-Empresarial/tree/v0.1.0-personal)
+
+A personal application that connects a customer storefront with sales, technical assessment, inventory and finance. It includes a shopping cart, equipment trade-ins, staff permissions, installment tracking and electronic-waste traceability. Built with **React + Vite, FastAPI and SQLite**, with components organized using **Atomic Design**.
+
+The current prototype runs entirely **locally**, with demo data and simulated payments.
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><img src="./assets/project-nexo.svg" width="100%" alt="Nexo — FastAPI, DynamoDB, EC2 and S3 URL shortener with automated tests" /></a></td>
-<td width="50%"><a href="https://github.com/JosueRBorja/api-biblioteca"><img src="./assets/project-library.svg" width="100%" alt="Library API — book and user CRUD with FastAPI, SQLModel and SQLite" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><img src="./assets/studio-nexo.svg" width="100%" alt="Nexo — URL shortener with FastAPI, DynamoDB, EC2 and S3" /></a><br/><a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><b>Explore Nexo →</b></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/api-biblioteca"><img src="./assets/studio-library.svg" width="100%" alt="Library API — book and user CRUD with FastAPI, SQLModel and SQLite" /></a><br/><a href="https://github.com/JosueRBorja/api-biblioteca"><b>Explore Library API →</b></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/JosueRBorja/videotube-lite-"><img src="./assets/project-videotube.svg" width="100%" alt="VideoTube Lite — learning fork of LeirBaGMC's S3 deployment project" /></a></td>
-<td width="50%"><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="./assets/project-portfolio.svg" width="100%" alt="Web Portfolio — personal HTML and CSS project" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/videotube-lite-"><img src="./assets/studio-videotube.svg" width="100%" alt="VideoTube Lite — learning fork of LeirBaGMC's S3 deployment project" /></a><br/><a href="https://github.com/JosueRBorja/videotube-lite-"><b>Explore the learning fork →</b></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="./assets/studio-portfolio.svg" width="100%" alt="Personal web portfolio built with HTML and CSS" /></a><br/><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><b>Explore my portfolio →</b></a></td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><img src="https://img.shields.io/github/last-commit/JosueRBorja/acortador-enlaces-aws?style=flat-square&amp;label=Nexo%20updated&amp;color=35c9ba" alt="Nexo latest commit" /></a>
-  <a href="https://github.com/JosueRBorja/api-biblioteca"><img src="https://img.shields.io/github/last-commit/JosueRBorja/api-biblioteca?style=flat-square&amp;label=Library%20API%20updated&amp;color=9695ef" alt="Library API latest commit" /></a>
-  <a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="https://img.shields.io/github/last-commit/JosueRBorja/Portafolio-HTML-JRB?style=flat-square&amp;label=Portfolio%20updated&amp;color=d791cb" alt="Portfolio latest commit" /></a>
-</p>
+## Tools & learning
 
-<img src="./assets/circuit-divider.svg" width="100%" alt="Animated circuit separator" />
+<img src="./assets/studio-toolkit.svg" width="100%" alt="Backend: Python, FastAPI, SQL, SQLModel, SQLite, DynamoDB. Frontend: JavaScript, React, HTML, CSS, Vite. Cloud: AWS, Docker, Git, EC2, S3, GitHub Actions." />
 
-### 🧠 Always learning
-
-- **Cloud:** AWS training in VPC, IAM, billing, shared responsibility and SimuLearn.
-- **Development:** completed coursework in Python, Java, HTML and CSS.
-- **Systems:** Linux Essentials and Microsoft Learn coursework in Group Policy and Active Directory.
-- **Collaboration:** IEEE Student Member, AWS club participation and GitHub Foundations coursework.
-
-### 🌐 Community & competitions
-
-<table>
-<tr>
-<td width="50%"><a href="https://drive.google.com/file/d/1dHtHN4zPq9qZnJJxpIwF2b5SEjUHkut_/view?usp=sharing"><img src="./assets/community-aws.svg" width="100%" alt="AWS Community Day Ecuador 2026 — attendee in Cuenca on September 5, 2026. View participation certificate." /></a></td>
-<td width="50%"><img src="./assets/community-ieeextreme.svg" width="100%" alt="IEEEXtreme 20.0 — participant in 2026 with team Machine Six" /></td>
-</tr>
-</table>
-
-<p align="center"><a href="https://drive.google.com/file/d/1dHtHN4zPq9qZnJJxpIwF2b5SEjUHkut_/view?usp=sharing">☁️ View AWS Community Day participation certificate</a></p>
+| Area | What I'm exploring |
+| :--- | :--- |
+| Backend & data | REST APIs, validation, relational data and automated tests |
+| Cloud & delivery | AWS VPC, IAM, EC2, S3, OIDC and GitHub Actions |
+| Systems & security | Linux, Windows Server, Active Directory and Wireshark |
+| Other languages | Coursework and experiments with Go and Java |
 
 <details>
-<summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
+<summary><b>Learning path</b></summary>
 
-Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información en la UIDE. Desarrollo proyectos con Python, FastAPI y AWS, y me interesan la ciberseguridad, Linux y la administración de sistemas. Me gusta aprender construyendo, entender cómo funcionan las cosas y compartir el proceso. Fuera del código, me encanta la fotografía y la naturaleza, y soy un amante de los caballos. Disfruto capturar paisajes, descubrir pequeños detalles y pasar tiempo cerca de los animales.
+- **AWS:** training in VPC, IAM, billing, shared responsibility and SimuLearn.
+- **Development:** coursework in Python, Java, HTML and CSS; practice through personal projects.
+- **Systems:** Linux Essentials and Microsoft Learn coursework in Group Policy and Active Directory.
+- **Collaboration:** GitHub Foundations coursework, IEEE Student Member and AWS club participation.
 
 </details>
 
-<br/>
+## Community
 
-<a href="https://www.instagram.com/sir_josu.rb19/">
-  <img src="./assets/photography-banner.svg" width="100%" alt="Code. Capture. Explore. — Photography on Instagram: sir_josu.rb19" />
-</a>
+<img src="./assets/studio-community.svg" width="100%" alt="AWS Community Day Ecuador 2026 attendee in Cuenca; IEEEXtreme 20.0 participant with team Machine Six." />
 
-### 📷 Beyond the terminal
+[View my AWS Community Day participation certificate →](https://drive.google.com/file/d/1dHtHN4zPq9qZnJJxpIwF2b5SEjUHkut_/view?usp=sharing)
 
-<p align="center">
-  <b>Nature, animals & the stories between places.</b><br/>
-  Naturaleza, animales e historias entre paisajes.<br/>
-  🌿 Nature lover &nbsp;·&nbsp; 🐎 Horse lover &nbsp;·&nbsp; 📸 Photography
-</p>
+I enjoy spaces where people share what they're building, solve problems together and make room for new learners.
+
+## Beyond the terminal
+
+<a href="https://www.instagram.com/sir_josu.rb19/"><img src="./assets/studio-photography.svg" width="100%" alt="Code. Capture. Explore. Nature, horses and photography." /></a>
 
 <details>
 <summary><b>📸 Mostrar / ocultar mi galería · Open / close photo gallery</b></summary>
@@ -123,27 +105,28 @@ Soy estudiante de quinto semestre de Ingeniería en Sistemas de la Información 
 
 <p align="center"><a href="https://www.instagram.com/sir_josu.rb19/"><b>Explore my photography on Instagram → @sir_josu.rb19</b></a></p>
 
-### 🐍 Contribution snake
-
-<p align="center">
-  <b>My coding activity, one bite at a time.</b><br/>
-  <sub>Mis contribuciones, un bocado a la vez · Updated daily</sub>
-</p>
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake.svg" />
-  <img alt="Animated snake eating JosueRBorja's GitHub contribution grid" src="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake.svg" width="100%" />
+  <img alt="Animated snake following my GitHub contribution grid" src="https://raw.githubusercontent.com/JosueRBorja/JosueRBorja/snake-output/github-snake.svg" width="100%" />
 </picture>
 
+<details>
+<summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
+
+Soy Josue Ramírez Borja, estudiante de Ingeniería en Sistemas de la Información en la UIDE, en Quito. Me gusta desarrollar aplicaciones, conectar sus componentes y entender cómo funcionan por dentro. Trabajo en proyectos con Python, FastAPI y React, mientras sigo aprendiendo sobre AWS, Linux y seguridad.
+
+EcoRAEE Cloud es uno de mis proyectos personales: reúne una tienda, ventas, taller, inventario, finanzas y trazabilidad de equipos electrónicos. Su versión actual funciona de manera local.
+
+Fuera del código disfruto la fotografía, la naturaleza y los caballos. Este espacio reúne lo que voy aprendiendo y construyendo.
+
+</details>
+
+---
+
 <p align="center">
-  <b>More than code. A way to build, explore and create.</b><br/><br/>
-  <a href="https://github.com/JosueRBorja?tab=repositories"><img src="https://img.shields.io/github/last-commit/JosueRBorja/JosueRBorja?style=flat-square&amp;label=profile%20updated&amp;color=28c9bd" alt="Latest profile update" /></a>
+  <b>Build something useful. Stay curious.</b><br/>
+  <sub>Backend · Cloud · Photography &nbsp; / &nbsp; Quito, Ecuador</sub>
 </p>
-
-
-### ♻️ Latest project · EcoRAEE
-
-[**Sistema Empresarial / EcoRAEE**](https://github.com/JosueRBorja/Sistema-Empresarial) — an academic application built with **React, FastAPI and SQLite**. Includes a customer storefront, sales, inventory, installment payments and electronic-waste traceability, with separate staff roles.
-
-Runs locally on Windows with demo data and simulated payments. See the repository for setup instructions and limitations.
