@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Backend developer in training. Building with Python, React and AWS.</b><br/>
+  <b>Software Developer · Backend & Cloud · Python, FastAPI, React & AWS.</b><br/>
   Aprendo construyendo: una idea, una API y un proyecto a la vez.
 </p>
 
@@ -23,9 +23,11 @@
 
 ## About me
 
-I'm **Josue Ramírez Borja**, an Information Systems Engineering student at **Universidad Internacional del Ecuador (UIDE)**, based in **Quito, Ecuador**.
+I'm **Josue Ramírez Borja**, a **software developer focused on backend development and cloud**, based in **Quito, Ecuador**. I build applications with **Python, FastAPI and React**, and work on cloud projects with **AWS**.
 
-I enjoy connecting interfaces, APIs and databases, then understanding the infrastructure behind them. My focus is **backend development and cloud**, with a growing interest in **Linux, system administration and application security**.
+My projects connect interfaces, REST APIs and databases, with attention to code organization, validation and testing. I also explore **Linux, system administration and application security**.
+
+Alongside my projects, I'm studying **Information Systems Engineering at Universidad Internacional del Ecuador (UIDE)**.
 
 Outside the terminal, you'll find me with a camera, exploring nature or spending time around horses.
 
@@ -187,7 +189,9 @@ I enjoy spaces where people share what they're building, solve problems together
 <details>
 <summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
 
-Soy Josue Ramírez Borja, estudiante de Ingeniería en Sistemas de la Información en la UIDE, en Quito. Me gusta desarrollar aplicaciones, conectar sus componentes y entender cómo funcionan por dentro. Trabajo en proyectos con Python, FastAPI y React, mientras sigo aprendiendo sobre AWS, Linux y seguridad.
+Soy **Josue Ramírez Borja**, **desarrollador de software enfocado en backend y cloud**, en Quito, Ecuador. Desarrollo aplicaciones con **Python, FastAPI y React**, y trabajo en proyectos con **AWS**. Me interesa crear APIs, conectar interfaces con bases de datos y mantener el código organizado, con validaciones y pruebas.
+
+Complemento mis proyectos con mis estudios de **Ingeniería en Sistemas de la Información en la UIDE**, y sigo profundizando en Linux, administración de sistemas y seguridad.
 
 EcoRAEE Cloud es uno de mis proyectos personales: reúne una tienda, ventas, taller, inventario, finanzas y trazabilidad de equipos electrónicos. Su versión actual funciona de manera local.
 
