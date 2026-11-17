@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Software Developer · Backend & Cloud · Python, FastAPI, React & AWS.</b><br/>
+  <b>Full Stack Developer · Backend & Cloud · Python, FastAPI, React & AWS.</b><br/>
   Aprendo construyendo: una idea, una API y un proyecto a la vez.
 </p>
 
@@ -23,7 +23,7 @@
 
 ## About me
 
-I'm **Josue Ramírez Borja**, a **software developer focused on backend development and cloud**, based in **Quito, Ecuador**. I build applications with **Python, FastAPI and React**, and work on cloud projects with **AWS**.
+I'm **Josue Ramírez Borja**, a **full stack developer with a focus on backend development and cloud**, based in **Quito, Ecuador**. I build applications with **Python, FastAPI and React**, and work on cloud projects with **AWS**.
 
 My projects connect interfaces, REST APIs and databases, with attention to code organization, validation and testing. I also explore **Linux, system administration and application security**.
 
@@ -189,7 +189,7 @@ I enjoy spaces where people share what they're building, solve problems together
 <details>
 <summary><b>🇪🇨 Un poco sobre mí, en español</b></summary>
 
-Soy **Josue Ramírez Borja**, **desarrollador de software enfocado en backend y cloud**, en Quito, Ecuador. Desarrollo aplicaciones con **Python, FastAPI y React**, y trabajo en proyectos con **AWS**. Me interesa crear APIs, conectar interfaces con bases de datos y mantener el código organizado, con validaciones y pruebas.
+Soy **Josue Ramírez Borja**, **desarrollador full stack con enfoque en backend y cloud**, en Quito, Ecuador. Desarrollo aplicaciones con **Python, FastAPI y React**, y trabajo en proyectos con **AWS**. Me interesa crear APIs, conectar interfaces con bases de datos y mantener el código organizado, con validaciones y pruebas.
 
 Complemento mis proyectos con mis estudios de **Ingeniería en Sistemas de la Información en la UIDE**, y sigo profundizando en Linux, administración de sistemas y seguridad.
 
