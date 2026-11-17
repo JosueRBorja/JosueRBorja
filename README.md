@@ -39,7 +39,7 @@ Outside the terminal, you'll find me with a camera, exploring nature or spending
 
 ## Selected projects
 
-A selection of my applications and cloud projects, followed by a directory of all my public project repositories.
+Start with my full-stack applications and backend/cloud projects. Each repository documents its scope, setup and current limitations.
 
 <a href="https://github.com/JosueRBorja/Sistema-Empresarial"><img src="./assets/studio-ecoraee.svg" width="100%" alt="Featured personal project: EcoRAEE Cloud. React, FastAPI and SQLite. Storefront, trade-ins, inventory, finance and RAEE traceability. Runs locally with simulated payments." /></a>
 
@@ -49,56 +49,63 @@ A personal application that connects a customer storefront with sales, technical
 
 The current prototype runs entirely **locally**, with demo data and simulated payments.
 
+[View the storefront screenshot and setup guide →](https://github.com/JosueRBorja/Sistema-Empresarial#vista-de-la-aplicación)
+
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><img src="./assets/studio-nexo.svg" width="100%" alt="Nexo — URL shortener with FastAPI, DynamoDB, EC2 and S3" /></a><br/><a href="https://github.com/JosueRBorja/acortador-enlaces-aws"><b>Explore Nexo →</b></a></td>
-<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/api-biblioteca"><img src="./assets/studio-library.svg" width="100%" alt="Library API — book and user CRUD with FastAPI, SQLModel and SQLite" /></a><br/><a href="https://github.com/JosueRBorja/api-biblioteca"><b>Explore Library API →</b></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/videotube-lite-"><img src="./assets/studio-videotube.svg" width="100%" alt="VideoTube Lite — learning fork of LeirBaGMC's S3 deployment project" /></a><br/><a href="https://github.com/JosueRBorja/videotube-lite-"><b>Explore the learning fork →</b></a></td>
-<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="./assets/studio-portfolio.svg" width="100%" alt="Personal web portfolio built with HTML and CSS" /></a><br/><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><b>Explore my portfolio →</b></a></td>
-</tr>
-
-<tr>
 <td width="50%" valign="top"><a href="https://github.com/JosueRBorja/inspira-proyect"><img src="./assets/studio-inspira.svg" width="100%" alt="Proyecto Inspira — Visual discovery project inspired by Pinterest. HTML · CSS · JavaScript · FastAPI" /></a><br/><a href="https://github.com/JosueRBorja/inspira-proyect"><b>Explore Proyecto Inspira →</b></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/EXAMEN1"><img src="./assets/studio-frame.svg" width="100%" alt="FRAME — video platform with React, Vite, FastAPI, SQLite and local media storage" /></a><br/><a href="https://github.com/JosueRBorja/EXAMEN1"><b>Explore FRAME →</b></a></td>
 <td width="50%" valign="top"><a href="https://github.com/JosueRBorja/API-FastAPI-con-Amazon-RDS"><img src="./assets/studio-rds.svg" width="100%" alt="FastAPI + Amazon RDS — An API project exploring cloud databases. Python · FastAPI · Amazon RDS" /></a><br/><a href="https://github.com/JosueRBorja/API-FastAPI-con-Amazon-RDS"><b>Explore FastAPI + Amazon RDS →</b></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Programacion-gestor-de-e-commerce"><img src="./assets/studio-commerce-go.svg" width="100%" alt="E-commerce Manager — E-commerce management programming project. Go" /></a><br/><a href="https://github.com/JosueRBorja/Programacion-gestor-de-e-commerce"><b>Explore E-commerce Manager →</b></a></td>
-<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Examen_Web_JRB"><img src="./assets/studio-store.svg" width="100%" alt="Online Store — A store project with frontend and Python backend. Python · HTML · CSS" /></a><br/><a href="https://github.com/JosueRBorja/Examen_Web_JRB"><b>Explore Online Store →</b></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Prototipo-de-youtube"><img src="./assets/studio-youtube.svg" width="100%" alt="YouTube Prototype — A video platform interface built for practice. HTML · CSS" /></a><br/><a href="https://github.com/JosueRBorja/Prototipo-de-youtube"><b>Explore YouTube Prototype →</b></a></td>
-<td width="50%" valign="top"><b>More projects & experiments</b><br/><br/>Explore the complete repository directory below: APIs, cryptography, web interfaces and GitHub learning labs.<br/><br/><a href="https://github.com/JosueRBorja?tab=repositories"><b>Browse all repositories →</b></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/api-biblioteca"><img src="./assets/studio-library.svg" width="100%" alt="Library API — book and user CRUD with FastAPI, SQLModel and SQLite" /></a><br/><a href="https://github.com/JosueRBorja/api-biblioteca"><b>Explore Library API →</b></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><img src="./assets/studio-portfolio.svg" width="100%" alt="Personal web portfolio built with HTML and CSS" /></a><br/><a href="https://github.com/JosueRBorja/Portafolio-HTML-JRB"><b>Explore my portfolio →</b></a></td>
 </tr>
 </table>
 
+<details>
+<summary><b>Explore 4 more projects: deployment practice, Go, store & video interface</b></summary>
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/videotube-lite-"><img src="./assets/studio-videotube.svg" width="100%" alt="VideoTube Lite — learning fork of LeirBaGMC's S3 deployment project" /></a><br/><a href="https://github.com/JosueRBorja/videotube-lite-"><b>Explore the learning fork →</b></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Programacion-gestor-de-e-commerce"><img src="./assets/studio-commerce-go.svg" width="100%" alt="E-commerce Manager — E-commerce management programming project. Go" /></a><br/><a href="https://github.com/JosueRBorja/Programacion-gestor-de-e-commerce"><b>Explore E-commerce Manager →</b></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Examen_Web_JRB"><img src="./assets/studio-store.svg" width="100%" alt="Online Store — A store project with frontend and Python backend. Python · HTML · CSS" /></a><br/><a href="https://github.com/JosueRBorja/Examen_Web_JRB"><b>Explore Online Store →</b></a></td>
+<td width="50%" valign="top"><a href="https://github.com/JosueRBorja/Prototipo-de-youtube"><img src="./assets/studio-youtube.svg" width="100%" alt="YouTube Prototype — A video platform interface built for practice. HTML · CSS" /></a><br/><a href="https://github.com/JosueRBorja/Prototipo-de-youtube"><b>Explore YouTube Prototype →</b></a></td>
+</tr>
+</table>
+
+</details>
 
 ### Complete project directory
 
-The cards above feature **10 projects**. The remaining **23 repositories** are linked here, including earlier versions, exercises and learning labs.
+All **33 public project repositories** remain accessible here. Applications are featured above; earlier versions, programming exercises and GitHub Skills labs are grouped below.
 
 <details>
-<summary><b>Open programming, web & security projects (16)</b></summary>
+<summary><b>Open programming, web & security projects (15)</b></summary>
 
 | Repository | Focus |
 | :--- | :--- |
-| [Decifrado_de_contrase-as](https://github.com/JosueRBorja/Decifrado_de_contrase-as) | Password-decoding practice. |
-| [Decifrado_de_contrase-as.](https://github.com/JosueRBorja/Decifrado_de_contrase-as.) | Additional password-decoding exercise. |
-| [clave](https://github.com/JosueRBorja/clave) | Key and password practice. |
-| [teclado](https://github.com/JosueRBorja/teclado) | Keyboard programming exercise. |
-| [Cifrado](https://github.com/JosueRBorja/Cifrado) | Encryption practice. |
-| [Add-round-key](https://github.com/JosueRBorja/Add-round-key) | AddRoundKey exercise. |
-| [AES](https://github.com/JosueRBorja/AES) | AES cryptography practice. |
-| [Pruebas_FastApi](https://github.com/JosueRBorja/Pruebas_FastApi) | FastAPI experiments. |
-| [Login_fastapi](https://github.com/JosueRBorja/Login_fastapi) | FastAPI login practice. |
-| [Bruteforce_SIR_Josue](https://github.com/JosueRBorja/Bruteforce_SIR_Josue) | Brute-force learning exercise. |
-| [api-y-ataque-de-seguridad-](https://github.com/JosueRBorja/api-y-ataque-de-seguridad-) | API and security learning lab. |
-| [simple-virus](https://github.com/JosueRBorja/simple-virus) | Security learning experiment. |
-| [Encriptador-Desencriptado-xor](https://github.com/JosueRBorja/Encriptador-Desencriptado-xor) | XOR encryption and decryption. |
-| [html](https://github.com/JosueRBorja/html) | HTML practice. |
-| [proyecto-inspira](https://github.com/JosueRBorja/proyecto-inspira) | Earlier Inspira web project. |
-| [EXAMEN1](https://github.com/JosueRBorja/EXAMEN1) | Web programming exercise. |
+| [Password exercise · empty archive](https://github.com/JosueRBorja/Decifrado_de_contrase-as) | Reserved archive; no source files currently published. |
+| [Password search · local lab](https://github.com/JosueRBorja/Decifrado_de_contrase-as.) | Local combinatorial-search exercise. |
+| [Login · initial exercise](https://github.com/JosueRBorja/clave) | FastAPI login example preserved as text files. |
+| [Keyboard events · lab](https://github.com/JosueRBorja/teclado) | Local input-event observation exercise. |
+| [XOR cipher · practice](https://github.com/JosueRBorja/Cifrado) | Reversible text transformation exercise. |
+| [AddRoundKey](https://github.com/JosueRBorja/Add-round-key) | XOR operation on state and round-key matrices. |
+| [AES transformations](https://github.com/JosueRBorja/AES) | Learning implementation; original team credits retained. |
+| [FastAPI experiments](https://github.com/JosueRBorja/Pruebas_FastApi) | Initial user routes and data validation. |
+| [Login API](https://github.com/JosueRBorja/Login_fastapi) | Registration and credential-validation practice. |
+| [Sequential search · lab](https://github.com/JosueRBorja/Bruteforce_SIR_Josue) | Local enumeration and complexity exercise. |
+| [Vulnerable authentication · lab](https://github.com/JosueRBorja/api-y-ataque-de-seguridad-) | Deliberately vulnerable local teaching API. |
+| [Keyboard logging · experiment](https://github.com/JosueRBorja/simple-virus) | Historical repository name; local keyboard-event study. |
+| [XOR encoder / decoder](https://github.com/JosueRBorja/Encriptador-Desencriptado-xor) | Python encryption and decryption exercise. |
+| [First HTML page](https://github.com/JosueRBorja/html) | Initial frontend practice. |
+| [Inspira · earlier mockup](https://github.com/JosueRBorja/proyecto-inspira) | Static predecessor of the integrated application. |
 
 </details>
 
@@ -120,17 +127,19 @@ The cards above feature **10 projects**. The remaining **23 repositories** are l
 ## Tools & learning
 
 <p align="center">
-  <img src="./assets/animated-toolkit.svg" width="100%" alt="Animated icons: Python, FastAPI, Go, Java, JavaScript, React, HTML, CSS, AWS, Docker, Linux, Git, GitHub and Kali Linux" />
+  <img src="./assets/animated-toolkit.svg" width="100%" alt="Animated icons: Python, FastAPI, Go, Java, JavaScript, React, HTML, CSS, AWS, Docker, Linux, Git, GitHub, Kali Linux, SQLite, PostgreSQL, Vite, GitHub Actions and VS Code" />
 </p>
 
 <img src="./assets/studio-toolkit.svg" width="100%" alt="Backend: Python, FastAPI, SQL, SQLModel, SQLite, DynamoDB. Frontend: JavaScript, React, HTML, CSS, Vite. Cloud: AWS, Docker, Git, EC2, S3, GitHub Actions." />
 
-| Area | What I'm exploring |
+The icons show tools I've used or explored; they are not proficiency ratings.
+
+| Focus | Evidence in my repositories |
 | :--- | :--- |
-| Backend & data | REST APIs, validation, relational data and automated tests |
-| Cloud & delivery | AWS VPC, IAM, EC2, S3, OIDC and GitHub Actions |
-| Systems & security | Linux, Windows Server, Active Directory and Wireshark |
-| Other languages | Coursework and experiments with Go and Java |
+| Full-stack applications | [FRAME](https://github.com/JosueRBorja/EXAMEN1): video publishing, playback and comments. [EcoRAEE](https://github.com/JosueRBorja/Sistema-Empresarial): React, FastAPI, SQLite, roles and business workflows. [Inspira](https://github.com/JosueRBorja/inspira-proyect): web interface, API and image storage. |
+| Backend & data | [Library API](https://github.com/JosueRBorja/api-biblioteca): CRUD with SQLModel. [RDS API](https://github.com/JosueRBorja/API-FastAPI-con-Amazon-RDS): PostgreSQL configuration and modular routes. |
+| Cloud & delivery | [Nexo](https://github.com/JosueRBorja/acortador-enlaces-aws): EC2, S3, DynamoDB and tests. [VideoTube Lite](https://github.com/JosueRBorja/videotube-lite-): learning fork with an S3/GitHub Actions workflow. |
+| Continuing practice | Go, Java, Linux, system administration and security through coursework and labs. |
 
 <details>
 <summary><b>Learning path</b></summary>
